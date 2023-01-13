@@ -1,0 +1,26 @@
+{
+  "name": "use-closest-scroll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prettify": "prettier --write ./src"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.2",
+    "typescript": "^3.6.2"
+  },
+  "peerDependencies": {
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0",
+    "@types/react": "^16.8.0"
+  },
+  "files": [
+    "dist/**/*"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
