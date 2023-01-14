@@ -1,7 +1,7 @@
 {
   "name": "use-closest-scroll",
   "version": "1.0.0",
-  "description": "",
+  "description": "React hook to automatically scroll to closest element.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -20,7 +20,19 @@
   "files": [
     "dist/**/*"
   ],
-  "keywords": [],
-  "author": "",
-  "license": "MIT"
+  "keywords": [
+    "react",
+    "hook",
+    "scroll"
+  ],
+  "author": "Martin Koparanov",
+  "license": "MIT",
+  "homepage": "https://github.com/onestopjs/use-closest-scroll",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onestopjs/use-closest-scroll.git"
+  },
+  "bugs": {
+    "url": "https://github.com/onestopjs/use-closest-scroll/issues"
+  }
 }
